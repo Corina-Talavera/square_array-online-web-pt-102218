@@ -1,3 +1,4 @@
 def square_array(array)
-  # your code here
+number.collect do |i|
+    square = i*i
 end
